@@ -10,5 +10,6 @@ Error handling mechanisms are integrated to manage instances of invalid or unrec
 Upon recognition of token patterns, the lexical analyzer generates tokens and associates them with their respective lexical categories. These tokens are then organized into a stream, constituting the output of the lexical analyzer.
 
 Clion, a robust Integrated Development Environment (IDE) provided by JetBrains for C/C++ programming, plays a pivotal role in this process by providing a user-friendly environment to compile the source code into the lexical analyzer. With its powerful features and functionalities, CLion ensures seamless execution and efficient generation of the output streams of tokens.
+
 Conclusion, the integration between the Flex Compiler and CLion enables developers to streamline the compilation process, enhancing productivity and facilitating the development of robust compilers for various programming languages.
 Table 
